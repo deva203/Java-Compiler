@@ -1,6 +1,6 @@
 # DevPulse ⚡
 
-DevPulse is an intelligent repository synchronization engine that instantly broadcasts your latest GitHub project updates, technical stacks, and production deployments straight to your live developer portfolio.  deva........
+DevPulse is an intelligent repository synchronization engine that instantly broadcasts your latest GitHub project updates, technical stacks, and production deployments straight to your live developer portfolio.
 
 ## About
 Maintaining a manual portfolio is a chore. DevPulse solves this by turning your GitHub repository into the source of truth for your personal branding. By deploying an automated webhook listener, any code push seamlessly updates your existing portfolio project listings or creates beautiful new cards out of thin air if you've launched something completely new.
